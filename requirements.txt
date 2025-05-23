@@ -1,8 +1,7 @@
 # requirements.txt
 
 streamlit
-opencv-python-headless
-lap
+opencv-python
 numpy
 pandas
 ultralytics
