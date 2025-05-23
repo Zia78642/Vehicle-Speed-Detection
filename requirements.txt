@@ -1,0 +1,10 @@
+# requirements.txt
+
+streamlit
+opencv-python
+numpy
+pandas
+ultralytics
+scikit-learn
+scipy
+torch # ultralytics depends heavily on PyTorch
