@@ -8,3 +8,4 @@ ultralytics
 scikit-learn
 scipy
 torch # ultralytics depends heavily on PyTorch
+lap==0.5.1
