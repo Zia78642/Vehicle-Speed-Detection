@@ -453,7 +453,7 @@ if 'statistics_df' in st.session_state:
 
     # Display the output video
     st.markdown("<h2 style='color: orange; text-align: center;'>Output Video</h2>", unsafe_allow_html=True)  # Changed to green
-    st.video(r"C:\Users\ziara\runs\detect\track\temp_video.avi")
+    st.video("videos/temp_video.avi")
 
     # Function to create a green download button for the video
     def download_video_button(video_path):
